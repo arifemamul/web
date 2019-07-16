@@ -1,0 +1,61 @@
+.header, .footer{
+	/*border:2px solid red;*/
+	min-height: 20px;
+}
+
+.headtex{
+	background-color: green;
+	margin: 5px;
+	color:white;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+
+
+}
+.wrapper {
+	overflow: hidden;
+}
+
+.contact {
+	margin-bottom: 0px;
+	text-align: center;
+	/*border:2px solid blue;*/
+	height: 400px;
+	width: 65%;
+	float: left;
+}
+.padding{
+	margin: 2px;
+	text-align:center;
+}
+
+
+.blog {
+	/*border:2px solid green;*/
+	height: 400px;
+	width: 30%;
+	float: right;
+}
+
+.blog1{
+	margin: 10px;
+	padding: 5px;
+	background-color: azure;
+}
+.blog2{
+	color:white;
+	margin: 10px;
+	padding: 5px;
+	background-color: rgba(0, 128, 0, 0.9);
+}
+
+.footer{
+	background-color: green;
+	color:white;
+	text-align: center;
+}
+
+.midfot{
+	text-align: center;
+}
